@@ -1,4 +1,4 @@
-# Certificard #ImersãoDev
+# Certificard #ImersãoDev 📚
 <br>
 Conjunto de projetos feitos na Imersão Dev da Alura. Tais como:
 <br>
